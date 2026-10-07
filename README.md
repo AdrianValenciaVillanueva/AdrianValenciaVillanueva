@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=Adrian%20Valencia&fontColor=ffffff&fontSize=32&fontAlignY=35&desc=AI%20Developer%20|%20LLMs%20RAG%20Agents&descAlignY=55&descSize=14)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=Adrian%20Valencia&fontColor=ffffff&fontSize=32&fontAlignY=35&desc=AI%20Developer%20|%20LLMs%20RAG%20Agents&descAlignY=55&descSize=14)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=000000&center=true&width=435&lines=AI+Developer;RAG+%2B+Agents+%2B+LLMs;Python+%2B+FastAPI+%2B+Docker)](https://git.io/typing-svg)
 

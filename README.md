@@ -1,16 +1,18 @@
-## Hi there 👋
+### Stack
 
-<!--
-**AdrianValenciaVillanueva/AdrianValenciaVillanueva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white)
 
-Here are some ideas to get you started:
+### Enfoque actual
+- LLMs aplicados: RAG, agentes y prompting
+- Backend para IA con FastAPI
+- MLOps básico: Docker, deploy y evaluación
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Proyectos destacados
+- **[viewTag](https://github.com/AdrianValenciaVillanueva/viewTag)** — Proyecto en Python. Agrega una descripción de 1 línea: qué resuelve + técnica de IA usada.
+- **[fastapi_deploy](https://github.com/AdrianValenciaVillanueva/fastapi_deploy)** — API / deploy con FastAPI. Ideal para servir modelos.
+- **[crown-s-sons](https://github.com/AdrianValenciaVillanueva/crown-s-sons)** — Proyecto en Python. Reescribe su `About` para orientarlo a IA.

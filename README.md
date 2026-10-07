@@ -15,9 +15,8 @@
 - MLOps básico: Docker, deploy y evaluación
 
 ### Proyectos destacados
-- **[viewTag](https://github.com/AdrianValenciaVillanueva/viewTag)** — Proyecto en Python. Agrega una descripción de 1 línea: qué resuelve + técnica de IA usada.
+- **[viewTag](https://github.com/AdrianValenciaVillanueva/viewTag)** — Proyecto en Python. Creacion de busqueda de relacion con un modelos IA de embedding.
 - **[fastapi_deploy](https://github.com/AdrianValenciaVillanueva/fastapi_deploy)** — API / deploy con FastAPI. Ideal para servir modelos.
-- **[crown-s-sons](https://github.com/AdrianValenciaVillanueva/crown-s-sons)** — Proyecto en Python. Reescribe su `About` para orientarlo a IA.
 ### Stats
 <p>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdrianValenciaVillanueva&show_icons=true&theme=transparent&hide_border=true" />

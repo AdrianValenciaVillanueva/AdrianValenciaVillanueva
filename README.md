@@ -16,6 +16,8 @@
 - **[viewTag](https://github.com/AdrianValenciaVillanueva/viewTag)** — Proyecto en Python. Agrega una descripción de 1 línea: qué resuelve + técnica de IA usada.
 - **[fastapi_deploy](https://github.com/AdrianValenciaVillanueva/fastapi_deploy)** — API / deploy con FastAPI. Ideal para servir modelos.
 - **[crown-s-sons](https://github.com/AdrianValenciaVillanueva/crown-s-sons)** — Proyecto en Python. Reescribe su `About` para orientarlo a IA.
-- ### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdrianValenciaVillanueva&show_icons=true&theme=minimal&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianValenciaVillanueva&layout=compact&theme=minimal&hide_border=true)
+### Stats
+<p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdrianValenciaVillanueva&show_icons=true&theme=transparent&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianValenciaVillanueva&layout=compact&theme=transparent&hide_border=true" />
+</p>

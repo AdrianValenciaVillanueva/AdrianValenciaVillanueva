@@ -6,6 +6,8 @@
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-000000?style=flat&logo=keras&logoColor=white)
 
 ### Enfoque actual
 - LLMs aplicados: RAG, agentes y prompting
